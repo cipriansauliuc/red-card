@@ -160,5 +160,77 @@
     "answer": 18,
     "type": "",
     "comment": ""
+  },
+  {
+    "question": "How many liters of water would fill an Olympic-sized swimming pool?",
+    "answer": 2500000,
+    "type": "",
+    "comment": "An Olympic-sized swimming pool holds approximately 2.5 million liters of water."
+  },
+  {
+    "question": "How many breaths does an average person take in a day?",
+    "answer": 22000,
+    "type": "",
+    "comment": "An average person takes about 22,000 breaths in a day, assuming 15-20 breaths per minute."
+  },
+  {
+    "question": "How many heartbeats does an average person have in their lifetime?",
+    "answer": 3000000000,
+    "type": "",
+    "comment": "An average heart beats about 3 billion times over a lifetime of 80 years."
+  },
+  {
+    "question": "How many Eiffel Towers would need to be stacked to reach the height of Mount Everest?",
+    "answer": 31,
+    "type": "",
+    "comment": "The Eiffel Tower is 330 meters tall, and Mount Everest is 8,849 meters tall, so it would take about 31 Eiffel Towers to match the height."
+  },
+  {
+    "question": "How many years would it take for a spacecraft traveling at the speed of light to reach the nearest star (Proxima Centauri)?",
+    "answer": 4.24,
+    "type": "years",
+    "comment": "Proxima Centauri is 4.24 light-years away from Earth, so it would take 4.24 years to reach it traveling at the speed of light."
+  },
+  {
+    "question": "How many bananas would it take to equal the radiation of one chest X-ray?",
+    "answer": 10000,
+    "type": "",
+    "comment": "The radiation dose from eating one banana is about 0.1 microsieverts, while a chest X-ray delivers about 1 millisievert, so you'd need around 10,000 bananas."
+  },
+  {
+    "question": "How many times does the International Space Station orbit the Earth in a day?",
+    "answer": 16,
+    "type": "",
+    "comment": "The ISS orbits Earth about 16 times per day, traveling at a speed of roughly 28,000 km/h."
+  },
+  {
+    "question": "How long would it take for a car traveling at 100 km/h to drive to the Moon?",
+    "answer": 160,
+    "type": "days",
+    "comment": "The Moon is about 384,400 km away from Earth, so it would take about 160 days to drive there at 100 km/h without stopping."
+  },
+  {
+    "question": "How many teaspoons of sugar are in a single can of Coca-Cola?",
+    "answer": 9,
+    "type": "",
+    "comment": "A standard 330ml can of Coca-Cola contains about 9 teaspoons (35 grams) of sugar."
+  },
+  {
+    "question": "How many kilometers would you travel if you flew around the Earth at the poles?",
+    "answer": 40008,
+    "type": "kilometers",
+    "comment": "The Earth's polar circumference is slightly shorter than the equatorial circumference, measuring about 40,008 kilometers."
+  },
+  {
+    "question": "How many Lego bricks would it take to build a tower to the Moon?",
+    "answer": 4000000000,
+    "type": "",
+    "comment": "It would take approximately 4 billion Lego bricks to build a tower to the Moon, assuming each brick is 9.6 mm tall."
+  },
+  {
+    "question": "How long would it take for light to travel around the Earth at the equator?",
+    "answer": 0.13,
+    "type": "seconds",
+    "comment": "Light travels at about 300,000 km/s, so it would take only 0.13 seconds to circle the Earth's equator."
   }
 ]
