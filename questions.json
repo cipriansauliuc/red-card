@@ -64,5 +64,101 @@
     "answer": 37,
     "type": "degrees Celsius",
     "comment": "The average human body temperature is 37°C (98.6°F), though it can vary slightly."
+  },
+  {
+    "question": "What percentage of their lives do cats spend sleeping?",
+    "answer": 70,
+    "type": "%",
+    "comment": ""
+  },
+  {
+    "question": "How many degrees can a cat rotate its ears to hear better at night?",
+    "answer": 180,
+    "type": "degrees",
+    "comment": ""
+  },
+  {
+    "question": "How many muscles does a cat have in each ear?",
+    "answer": 30,
+    "type": "",
+    "comment": ""
+  },
+  {
+    "question": "What is the maximum speed a cat can run?",
+    "answer": 48,
+    "type": "km/h",
+    "comment": "Cats can run up to 48 kph (30 mph), but only over short distances."
+  },
+  {
+    "question": "How many different sounds can a cat make?",
+    "answer": 100,
+    "type": "",
+    "comment": ""
+  },
+  {
+    "question": "How many whiskers does a cat typically have?",
+    "answer": 24,
+    "type": "",
+    "comment": "There are exactly 24 whiskers on a cat, 12 on each side of their face."
+  },
+  {
+    "question": "In what year was the first cat litter invented?",
+    "answer": 1947,
+    "type": "",
+    "comment": "In 1947, Edward Lowe introduced his clay-based Kitty Litter. At first, he had trouble convincing his local pet store to sell the product."
+  },
+  {
+    "question": "What is the maximum weight of a Siberian Tiger, the largest wildcat in the world?",
+    "answer": 423,
+    "type": "kg",
+    "comment": ""
+  },
+  {
+    "question": "How many bones does a cat have in its body?",
+    "answer": 244,
+    "type": "",
+    "comment": ""
+  },
+  {
+    "question": "In what year was the first official cat show held?",
+    "answer": 1871,
+    "type": "",
+    "comment": "The first cat show was held in London at Crystal Palace in 1871. The Crystal Palace cat show still takes place every year."
+  },
+  {
+    "question": "How many vertebrae does a cat have in its spine?",
+    "answer": 53,
+    "type": "",
+    "comment": ""
+  },
+  {
+    "question": "How many dogs survived the sinking of the Titanic?",
+    "answer": 3,
+    "type": "",
+    "comment": "Vetstreet states that the dogs were in first class and included a Pomeranian puppy - which her owner wrapped in a blanket to escape with, and everyone thought she was carrying a baby. Another Pomeranian and a Pekingese were also rescued. Move over Rose and Jack!"
+  },
+  {
+    "question": "What percentage of Dalmatian dogs are deaf in one ear?",
+    "answer": 30,
+    "type": "%",
+    "comment": "UFAW states that on average around 30% of Dalmatians are deaf in one ear and 5% are deaf in both. This is due to something called the extreme piebald gene which is responsible for their white coat and blue eyes (in some of them). Dalmatians with larger dark patches are less likely to be deaf."
+  },
+  {
+    "question": "Approximately how many dogs are there in the world?",
+    "answer": 600000000,
+    "type": "",
+    "comment": "This is a sad statistic, as it is estimated that nearly 400 million of those dogs are homeless strays."
+  },
+  {
+    "question": "What is the coldest temperature the Alaskan Malamute can withstand?",
+    "answer": -50,
+    "type": "ºC",
+    "comment": ""
+  },
+  {
+    "question": "How many muscles does a dog have in each ear?",
+    "answer": 18,
+    "type": "",
+    "comment": ""
   }
 ]
