@@ -232,5 +232,95 @@
     "answer": 0.13,
     "type": "seconds",
     "comment": "Light travels at about 300,000 km/s, so it would take only 0.13 seconds to circle the Earth's equator."
+  },
+  {
+    "question": "How many times does the average person blink in a year?",
+    "answer": 52560000,
+    "type": "",
+    "comment": "The average person blinks about 15-20 times per minute, leading to roughly 52.5 million blinks in a year."
+  },
+  {
+    "question": "How many hamburgers does McDonald's sell every second worldwide?",
+    "answer": 75,
+    "type": "",
+    "comment": "McDonald's sells about 75 hamburgers every second, amounting to over 2.3 billion burgers a year."
+  },
+  {
+    "question": "How many liters of water are needed to produce 1 kilogram of chocolate?",
+    "answer": 24000,
+    "type": "liters",
+    "comment": "It takes about 24,000 liters of water to produce just 1 kilogram of chocolate, mostly for growing cacao trees."
+  },
+  {
+    "question": "How many Earths would fit inside the Sun?",
+    "answer": 1300000,
+    "type": "",
+    "comment": "About 1.3 million Earths could fit inside the Sun if it were hollow."
+  },
+  {
+    "question": "How many kilometers does the average person walk in their lifetime?",
+    "answer": 128000,
+    "type": "kilometers",
+    "comment": "The average person walks about 128,000 kilometers in their lifetime, roughly equivalent to walking around the Earth three times."
+  },
+  {
+    "question": "How long would it take for a drop of water to travel down the Mississippi River?",
+    "answer": 90,
+    "type": "days",
+    "comment": "It takes about 90 days for a drop of water to travel the entire length of the Mississippi River from Minnesota to the Gulf of Mexico."
+  },
+  {
+    "question": "How many hours of video are uploaded to YouTube every minute?",
+    "answer": 500,
+    "type": "",
+    "comment": "As of recent statistics, about 500 hours of video are uploaded to YouTube every minute."
+  },
+  {
+    "question": "How many liters of air does the average person breathe in a day?",
+    "answer": 11000,
+    "type": "liters",
+    "comment": "The average person breathes in about 11,000 liters of air per day."
+  },
+  {
+    "question": "How many grains of sand are estimated to be on all the world's beaches?",
+    "answer": 7000000000000000000,
+    "type": "",
+    "comment": "Scientists estimate there are about 7 quintillion, 500 quadrillion grains of sand on the Earth's beaches."
+  },
+  {
+    "question": "How many Eiffel Towers would need to be melted down to make a full-scale replica of the Titanic?",
+    "answer": 120,
+    "type": "",
+    "comment": "It would take about 120 Eiffel Towers' worth of steel to recreate the Titanic, which required over 46,000 tons of steel."
+  },
+  {
+    "question": "How many liters of beer are consumed during Oktoberfest in Munich each year?",
+    "answer": 6000000,
+    "type": "",
+    "comment": "On average, about 6 million liters of beer are consumed during Munich's Oktoberfest annually."
+  },
+  {
+    "question": "How many ants are there on Earth for every human?",
+    "answer": 2000000,
+    "type": "",
+    "comment": "For every human on Earth, there are about 2 million ants, with a total biomass similar to humans."
+  },
+  {
+    "question": "How long would it take for a modern jet to fly around the Earth at the equator?",
+    "answer": 900,
+    "type": "minutes",
+    "comment": "Flying at an average speed of 900 km/h, a modern jet would take about 900 minutes (15 hours) to circle the Earth's 40,075-kilometer equator."
+  },
+  {
+    "question": "How many liters of saliva does the average person produce in a lifetime?",
+    "answer": 25000,
+    "type": "liters",
+    "comment": "The average person produces about 25,000 liters of saliva in a lifetime, enough to fill two swimming pools."
+  },
+  {
+    "question": "How many trees are estimated to exist on Earth?",
+    "answer": 3000000000000,
+    "type": "",
+    "comment": "There are an estimated 3 trillion trees on Earth, or about 422 trees for every person."
   }
 ]
