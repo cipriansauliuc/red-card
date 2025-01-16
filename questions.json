@@ -1194,5 +1194,61 @@
     "type": "%",
     "comment": "Everyone dreams every night, but not everyone remembers their dreams the next day.",
     "isDynamic": false
+  },
+  {
+    "question": "What is the fastest recorded speed of a tennis serve in kilometers per hour?",
+    "answer": 263,
+    "type": "km/h",
+    "comment": "Australian Sam Groth holds the record for the fastest tennis serve at 263 km/h.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many liters of saliva does a person produce in their lifetime?",
+    "answer": 25000,
+    "type": "liters",
+    "comment": "The average person produces about 25,000 liters of saliva in a lifetime, enough to fill two swimming pools.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many iPhones were sold in their first year on the market?",
+    "answer": 6000000,
+    "type": "",
+    "comment": "Apple sold 6 million iPhones in the first year after its launch in 2007.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "answer": 3,
+    "type": "",
+    "comment": "An octopus has three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the longest Monopoly game ever played in hours?",
+    "answer": 1680,
+    "type": "hours",
+    "comment": "The longest game of Monopoly ever played lasted 70 days (1680 hours).",
+    "isDynamic": true
+  },
+  {
+    "question": "How many turkeys are cooked in the U.S. on Thanksgiving Day?",
+    "answer": 46,
+    "type": "million",
+    "comment": "Around 46 million turkeys are cooked in the U.S. for Thanksgiving each year.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many countries does the Amazon rainforest span?",
+    "answer": 9,
+    "type": "",
+    "comment": "The Amazon rainforest spans 9 countries, including Brazil, Peru, and Colombia.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many cups of tea are consumed daily worldwide?",
+    "answer": 3,
+    "type": "billion",
+    "comment": "Globally, people consume about 3 billion cups of tea every day, making it the second most popular beverage after water.",
+    "isDynamic": true
   }
 ]
