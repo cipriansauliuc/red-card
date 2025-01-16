@@ -1,13 +1,13 @@
 [
   {
-    "question": "How many bones are there in the human body?",
+    "question": "How many bones are there in the adult human body?",
     "answer": 206,
     "type": "count",
-    "comment": "Adults have 206 bones, but babies are born with around 270, which fuse over time.",
+    "comment": "",
     "isDynamic": false
   },
   {
-    "question": "Adults have 206 bones, but how many bones does an average baby have?",
+    "question": "How many bones does an average baby have?",
     "answer": 270,
     "type": "count",
     "comment": "Babies are born with around 270, which fuse over time.",
