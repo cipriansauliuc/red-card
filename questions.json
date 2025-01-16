@@ -564,5 +564,187 @@
     "type": "days",
     "comment": "",
     "isDynamic": false
-  }  
+  },
+  {
+    "question": "What is the world record for the most Big Macs eaten by one person in a lifetime?",
+    "answer": 30000,
+    "type": "",
+    "comment": "Donald Gorske holds the record, having eaten over 30,000 Big Macs since 1972.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many liters of sweat can the human body produce during an intense workout?",
+    "answer": 3,
+    "type": "liters",
+    "comment": "During an intense workout, the human body can sweat up to 3 liters per hour to regulate temperature.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the fastest speed recorded for a sneeze?",
+    "answer": 160,
+    "type": "km/h",
+    "comment": "A sneeze can travel at speeds of up to 160 km/h, faster than most sports cars!",
+    "isDynamic": false
+  },
+  {
+    "question": "How many rubber ducks were spilled into the Pacific Ocean in 1992?",
+    "answer": 28000,
+    "type": "rubber ducks",
+    "comment": "In 1992, 28,000 rubber ducks were accidentally spilled from a cargo ship, helping scientists track ocean currents.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the record for the loudest snore ever recorded?",
+    "answer": 93,
+    "type": "decibels",
+    "comment": "The loudest snore ever recorded was 93 decibels, about as loud as a lawnmower!",
+    "isDynamic": true
+  },
+  {
+    "question": "How many calories are burned by banging your head against a wall for an hour?",
+    "answer": 150,
+    "type": "calories",
+    "comment": "It's not recommended, but you would burn about 150 calories doing so!",
+    "isDynamic": false
+  },
+  {
+    "question": "How many dimples are on a regulation golf ball?",
+    "answer": 336,
+    "type": "",
+    "comment": "Most regulation golf balls have 336 dimples, designed to improve their aerodynamic performance.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the longest time someone has gone without sleep?",
+    "answer": 11,
+    "type": "days",
+    "comment": "Randy Gardner holds the record, staying awake for 11 days during a school science project in 1964.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many bubbles can a single bottle of champagne produce?",
+    "answer": 49000000,
+    "type": "bubbles",
+    "comment": "A single bottle of champagne can produce up to 49 million bubbles!",
+    "isDynamic": false
+  },
+  {
+    "question": "How many steps does the average person take in their lifetime?",
+    "answer": 216000000,
+    "type": "",
+    "comment": "",
+    "isDynamic": false
+  },
+  {
+    "question": "How long can a cockroach live without its head?",
+    "answer": 7,
+    "type": "days",
+    "comment": "A cockroach can live up to a week without its head because it breathes through its body and doesn’t rely on its mouth or head to survive.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many taste buds does the average human tongue have?",
+    "answer": 10000,
+    "type": "",
+    "comment": "The average human tongue has about 10,000 taste buds, and they regenerate every 10 to 14 days.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the maximum number of pups a wolf can have in one litter?",
+    "answer": 14,
+    "type": "",
+    "comment": "A wolf pack's alpha female can give birth to up to 14 pups in one litter, although the average is 4-6.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the heaviest weight ever lifted by a human?",
+    "answer": 500,
+    "type": "kilograms",
+    "comment": "The heaviest weight ever lifted by a human in a deadlift is 500 kg (1,102 lbs), achieved by Hafthor Bjornsson in 2020.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many times can a cheetah’s heart beat in one minute while chasing prey?",
+    "answer": 250,
+    "type": "",
+    "comment": "",
+    "isDynamic": false
+  },
+  {
+    "question": "How many glasses of milk does a cow produce in its lifetime?",
+    "answer": 200000,
+    "type": "",
+    "comment": "",
+    "isDynamic": false
+  },
+  {
+    "question": "How many muscles does a human face use to smile?",
+    "answer": 17,
+    "type": "",
+    "comment": "",
+    "isDynamic": false
+  },
+  {
+    "question": "How many muscles are involved while frowning?",
+    "answer": 43,
+    "type": "",
+    "comment": "",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the longest recorded duration of a chicken's flight?",
+    "answer": 13,
+    "type": "seconds",
+    "comment": "",
+    "isDynamic": false
+  },  
+  {
+    "question": "How many hairs are there on the average human head?",
+    "answer": 100000,
+    "type": "",
+    "comment": "The average human head has about 100,000 hairs, though it varies by hair color and genetics.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many liters of water does it take to produce one kilogram of rice?",
+    "answer": 2500,
+    "type": "liters",
+    "comment": "",
+    "isDynamic": false
+  },
+  {
+    "question": "How far does the average person walk in a year?",
+    "answer": 2000,
+    "type": "kilometers",
+    "comment": "On average, a person walks about 2,000 kilometers in a year, roughly the distance from Paris to Rome.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the longest a person has gone without blinking?",
+    "answer": 65,
+    "type": "minutes",
+    "comment": "The record for going without blinking is 1 hour and 5 minutes, set by Julio Jaime in 2016.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many calories are burned by laughing for 15 minutes?",
+    "answer": 40,
+    "type": "",
+    "comment": "",
+    "isDynamic": false
+  },
+  {
+    "question": "How many kilometers per hour can the fastest human run?",
+    "answer": 44.72,
+    "type": "km/h",
+    "comment": "Usain Bolt holds the record for the fastest sprint speed at 44.72 km/h during the 100m sprint.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many years does it take for a plastic bottle to decompose in a landfill?",
+    "answer": 450,
+    "type": "years",
+    "comment": "",
+    "isDynamic": false
+  }
 ]
