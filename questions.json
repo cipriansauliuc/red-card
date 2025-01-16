@@ -746,5 +746,117 @@
     "type": "years",
     "comment": "",
     "isDynamic": false
+  },
+  {
+    "question": "Egypt has 138 pyramids, how many pyramids does Sudan have?",
+    "answer": 200,
+    "type": "",
+    "comment": "Sudan has over 200 pyramids.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many time zones does France have, including its territories?",
+    "answer": 12,
+    "type": "",
+    "comment": "France has 12 time zones, the most of any country in the world, due to its overseas territories.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many countries in the world do not have an official capital?",
+    "answer": 1,
+    "type": "",
+    "comment": "Nauru is the only country without an official capital.",
+    "isDynamic": true
+  },
+  {
+    "question": "What is the length of the Nile River?",
+    "answer": 6650,
+    "type": "kilometers",
+    "comment": "The Nile River stretches over 6,650 kilometers, making it the longest river in the world.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the area of Vatican City in square kilometers?",
+    "answer": 0.49,
+    "type": "square kilometers",
+    "comment": "Vatican City is the smallest country in the world, covering just 0.49 square kilometers.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the average ground level of the Maldives above sea level, in meters?",
+    "answer": 1.5,
+    "type": "meters",
+    "comment": "The Maldives is the flattest country on Earth, with an average ground level of just 1.5 meters above sea level.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the altitude of La Paz, the world's highest capital city, in meters?",
+    "answer": 3650,
+    "type": "meters",
+    "comment": "La Paz, Bolivia, is the highest capital city in the world at 3,650 meters above sea level.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many active volcanoes are there in Australia?",
+    "answer": 0,
+    "type": "",
+    "comment": "Australia is the only continent without any active volcanoes.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many lakes does Canada have, approximately?",
+    "answer": 2000000,
+    "type": "",
+    "comment": "Canada has over 2 million lakes, more than any other country in the world.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the area of the Antarctic Desert in square kilometers?",
+    "answer": 14000000,
+    "type": "square kilometers",
+    "comment": "The Antarctic Desert covers about 14 million square kilometers, making it the largest desert in the world.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the length of the Canada–United States border in kilometers?",
+    "answer": 8891,
+    "type": "kilometers",
+    "comment": "The Canada–United States border is the longest international border, stretching 8,891 kilometers.",
+    "isDynamic": false
+  },
+  {
+    "question": "Italy has the most UNESCO World Heritage Sites, how many does it have?",
+    "answer": 58,
+    "type": "",
+    "comment": "Italy has the most UNESCO World Heritage Sites, with 58 recognized locations.",
+    "isDynamic": true
+  },
+  {
+    "question": "What percentage of the Great Lakes does Michigan border?",
+    "answer": 80,
+    "type": "%",
+    "comment": "Michigan borders four of the five Great Lakes, accounting for approximately 80% of their total shoreline.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the area of Monaco in square kilometers?",
+    "answer": 2.1,
+    "type": "square kilometers",
+    "comment": "Monaco is only 2.1 square kilometers, making it smaller than Central Park in New York City.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many bridges does Hamburg, Germany, have?",
+    "answer": 2500,
+    "type": "",
+    "comment": "Hamburg has over 2,500 bridges, more than Venice, Amsterdam, and London combined.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the area of Greenland in square kilometers?",
+    "answer": 2166000,
+    "type": "square kilometers",
+    "comment": "Greenland, the largest island in the world, spans 2,166,000 square kilometers.",
+    "isDynamic": false
   }
 ]
