@@ -984,5 +984,110 @@
     "type": "days",
     "comment": "The average person works around 10,000 days over a lifetime, assuming a 40-year career.",
     "isDynamic": false
+  },
+  {
+    "question": "What percentage of workers have faked being sick to skip work?",
+    "answer": 40,
+    "type": "%",
+    "comment": "About 40% of workers admit to faking a sick day to skip work.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many tons of pizza are eaten every year in the United States?",
+    "answer": 3000000,
+    "type": "tons",
+    "comment": "Americans consume about 3 million tons of pizza annually, with pepperoni being the most popular topping.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many burgers does McDonald's sell every second worldwide?",
+    "answer": 75,
+    "type": "",
+    "comment": "McDonald's sells about 75 burgers every second, adding up to billions annually.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many hot dogs are consumed by Americans on the Fourth of July each year?",
+    "answer": 150000000,
+    "type": "",
+    "comment": "On the Fourth of July, Americans eat approximately 150 million hot dogs.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many liters of soda does the average American drink in a year?",
+    "answer": 150,
+    "type": "liters",
+    "comment": "The average American drinks about 150 liters of soda per year, making it one of the most consumed beverages.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many grapes does it take to make one bottle of wine?",
+    "answer": 700,
+    "type": "",
+    "comment": "It takes around 700 grapes to make a standard 750ml bottle of wine.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many years old is the oldest known piece of chewing gum?",
+    "answer": 9000,
+    "type": "years",
+    "comment": "The oldest piece of chewing gum ever found is 9,000 years old, made from birch bark tar.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many croissants are sold daily in France?",
+    "answer": 30000000,
+    "type": "",
+    "comment": "France sells about 30 million croissants daily, a testament to the nation's love for pastries.",
+    "isDynamic": true
+  },
+  {
+    "question": "What percentage of people eat pizza for breakfast at least once a year?",
+    "answer": 36,
+    "type": "%",
+    "comment": "Around 36% of people admit to eating pizza for breakfast at least once a year.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many kernels of popcorn are in an average movie theater bucket?",
+    "answer": 1600,
+    "type": "",
+    "comment": "An average movie theater bucket of popcorn contains around 1,600 popped kernels.",
+    "isDynamic": true
+  },
+  {
+    "question": "What is the world record for the most sushi rolls eaten in one minute?",
+    "answer": 12,
+    "type": "",
+    "comment": "The record for most sushi rolls eaten in one minute is 12, achieved by competitive eater Tim 'Eater X' Janus.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many cups of coffee does the average Finnish person drink per year?",
+    "answer": 1200,
+    "type": "cups",
+    "comment": "Finns drink an average of 1,200 cups of coffee annually, making them the biggest coffee drinkers in the world.",
+    "isDynamic": true
+  },
+  {
+    "question": "How long does it take to burn off a Big Mac with fries through running?",
+    "answer": 3,
+    "type": "hours",
+    "comment": "It takes about 3 hours of running to burn off the calories from a Big Mac with fries.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many lollipops are made annually in the world?",
+    "answer": 4000000000,
+    "type": "",
+    "comment": "Around 4 billion lollipops are made every year globally.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many calories are in the average Thanksgiving dinner?",
+    "answer": 4500,
+    "type": "",
+    "comment": "The average Thanksgiving dinner contains about 4,500 calories, more than twice the recommended daily intake.",
+    "isDynamic": true
   }
 ]
