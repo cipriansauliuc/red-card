@@ -879,6 +879,96 @@
     "type": "",
     "comment": "KFC was invented in Sanders Cafe in Corbin, Kentucky, by Colonel Harland Sanders in 1957.",
     "isDynamic": false
+  },
+  {
+    "question": "How many hours does the average couple spend deciding what to watch on TV in a year?",
+    "answer": 132,
+    "type": "hours",
+    "comment": "Couples spend an average of 132 hours a year debating what to watch, enough time to binge-watch several series.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many days does it take, on average, for someone to say 'I love you' in a relationship?",
+    "answer": 144,
+    "type": "days",
+    "comment": "On average, people say 'I love you' after 144 days of dating, though it varies widely depending on the person.",
+    "isDynamic": true
+  },
+  {
+    "question": "What percentage of marriages are the result of childhood sweethearts?",
+    "answer": 14,
+    "type": "%",
+    "comment": "Only 14% of marriages are the result of childhood sweethearts, proving not all love stories start early.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many minutes does it take, on average, for someone to decide if they like someone on a first date?",
+    "answer": 7,
+    "type": "minutes",
+    "comment": "Most people decide if they like someone within the first 7 minutes of a date.",
+    "isDynamic": true
+  },
+  {
+    "question": "What percentage of arguments in relationships are about food?",
+    "answer": 25,
+    "type": "%",
+    "comment": "Approximately 25% of relationship arguments are about food, such as what to eat or where to order from.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many dates does it take, on average, before couples feel comfortable leaving their toothbrush at each other's place?",
+    "answer": 8,
+    "type": "",
+    "comment": "It takes about 8 dates before most people feel comfortable leaving their toothbrush at their partner's place.",
+    "isDynamic": true
+  },
+  {
+    "question": "What percentage of people have admitted to snooping through their partner's phone?",
+    "answer": 34,
+    "type": "%",
+    "comment": "Around 34% of people admit to snooping through their partner's phone at least once.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many kisses does the average couple share in a year?",
+    "answer": 1560,
+    "type": "",
+    "comment": "The average couple shares about 1,560 kisses per year, roughly 4 per day.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many times does the average person fall in love in their lifetime?",
+    "answer": 3,
+    "type": "",
+    "comment": "The average person falls in love three times in their lifetime, according to studies.",
+    "isDynamic": true
+  },
+  {
+    "question": "What is the average age gap between couples globally?",
+    "answer": 2.3,
+    "type": "years",
+    "comment": "Globally, the average age gap between couples is 2.3 years, with men typically older than women.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many couples meet at work, on average?",
+    "answer": 22,
+    "type": "%",
+    "comment": "Approximately 22% of couples meet at work, making it one of the most common meeting places.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many seconds does the average first kiss last?",
+    "answer": 12,
+    "type": "seconds",
+    "comment": "The average first kiss lasts about 12 seconds, but memorable ones may feel much longer.",
+    "isDynamic": true
+  },
+  {
+    "question": "What percentage of people believe in love at first sight?",
+    "answer": 60,
+    "type": "%",
+    "comment": "Around 60% of people believe in love at first sight, even if they've never experienced it.",
+    "isDynamic": true
   }
-  
 ]
