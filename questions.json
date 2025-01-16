@@ -618,7 +618,7 @@
     "question": "What is the longest time someone has gone without sleep?",
     "answer": 11,
     "type": "days",
-    "comment": "Randy Gardner holds the record, staying awake for 11 days during a school science project in 1964.",
+    "comment": "Randy Gardner holds the record, staying awake for 11 days during a school science experiment in 1964.",
     "isDynamic": false
   },
   {
@@ -1089,5 +1089,110 @@
     "type": "",
     "comment": "The average Thanksgiving dinner contains about 4,500 calories, more than twice the recommended daily intake.",
     "isDynamic": true
+  },
+  {
+    "question": "How many hours does the average person spend sleeping in their lifetime?",
+    "answer": 229961,
+    "type": "hours",
+    "comment": "The average person spends about a third of their life sleeping, adding up to 229,961 hours over 79 years.",
+    "isDynamic": true
+  },
+  {
+    "question": "What percentage of people dream in black and white?",
+    "answer": 12,
+    "type": "%",
+    "comment": "About 12% of people dream in black and white, a number that was higher before the advent of color television.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many minutes does it take, on average, to fall asleep?",
+    "answer": 7,
+    "type": "minutes",
+    "comment": "It takes the average person about 7 minutes to fall asleep.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many dreams does the average person have per night?",
+    "answer": 4,
+    "type": "",
+    "comment": "The average person has about 4 dreams per night, though most are forgotten by morning.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the maximum recorded time a cat has spent sleeping in one day?",
+    "answer": 20,
+    "type": "hours",
+    "comment": "Cats can sleep up to 20 hours a day, especially older cats or kittens.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many years does the average dog spend sleeping during its lifetime?",
+    "answer": 10.5,
+    "type": "years",
+    "comment": "Dogs sleep an average of 12–14 hours a day, adding up to about 10.5 years over their lifetime.",
+    "isDynamic": false
+  },
+  {
+    "question": "What percentage of people have admitted to talking in their sleep?",
+    "answer": 66,
+    "type": "%",
+    "comment": "Approximately 66% of people admit to talking in their sleep at least once.",
+    "isDynamic": true
+  },
+  {
+    "question": "What percentage of people have reported sleepwalking at least once in their life?",
+    "answer": 4,
+    "type": "%",
+    "comment": "About 4% of adults report having sleepwalked at least once in their lifetime.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many hours does the average newborn sleep each day?",
+    "answer": 16,
+    "type": "hours",
+    "comment": "Newborns sleep an average of 16 hours a day, often waking up every 2–3 hours to eat.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the longest recorded nap taken by a snail?",
+    "answer": 3,
+    "type": "years",
+    "comment": "A snail can nap for up to 3 years if the weather conditions aren’t favorable.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many hours of sleep do giraffes need per day?",
+    "answer": 4,
+    "type": "hours",
+    "comment": "Giraffes only sleep for about 4 hours a day, often in short naps.",
+    "isDynamic": false
+  },
+  {
+    "question": "What percentage of people claim they can control their dreams (lucid dreaming)?",
+    "answer": 20,
+    "type": "%",
+    "comment": "Around 20% of people report being able to control their dreams through lucid dreaming.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many sheep does the average person need to count before falling asleep?",
+    "answer": 0,
+    "type": "sheep",
+    "comment": "Counting sheep has no proven effect on sleep; focusing on breathing is more effective!",
+    "isDynamic": false
+  },
+  {
+    "question": "What percentage of people snore while sleeping?",
+    "answer": 40,
+    "type": "%",
+    "comment": "About 40% of adults snore occasionally, with men more likely to be regular snorers.",
+    "isDynamic": true
+  },
+  {
+    "question": "What percentage of people dream every single night?",
+    "answer": 100,
+    "type": "%",
+    "comment": "Everyone dreams every night, but not everyone remembers their dreams the next day.",
+    "isDynamic": false
   }
 ]
