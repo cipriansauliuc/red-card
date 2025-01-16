@@ -858,5 +858,27 @@
     "type": "square kilometers",
     "comment": "Greenland, the largest island in the world, spans 2,166,000 square kilometers.",
     "isDynamic": false
+  },
+  {
+    "question": "What percentage of the Earth's total land area does Africa make up?",
+    "answer": 22,
+    "type": "%",
+    "comment": "Africa is the second-largest continent in the world.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many sovereign countries are there in Africa?",
+    "answer": 54,
+    "type": "",
+    "comment": "Africa has 54 sovereign countries, the most of any continent.",
+    "isDynamic": true
+  },
+  {
+    "question": "In what year was Kentucky Fried Chicken (KFC) invented?",
+    "answer": 1957,
+    "type": "",
+    "comment": "KFC was invented in Sanders Cafe in Corbin, Kentucky, by Colonel Harland Sanders in 1957.",
+    "isDynamic": false
   }
+  
 ]
