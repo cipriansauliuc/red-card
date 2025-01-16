@@ -1,11 +1,5 @@
 [
   {
-    "question": "What is the average lifespan of a domestic cat?",
-    "answer": 15,
-    "type": "years",
-    "comment": "Domestic cats typically live between 12 and 18 years, with some reaching their 20s."
-  },
-  {
     "question": "How many bones are there in the human body?",
     "answer": 206,
     "type": "count",
@@ -22,48 +16,6 @@
     "answer": 1912,
     "type": "year",
     "comment": "The Titanic sank on April 15, 1912, after hitting an iceberg."
-  },
-  {
-    "question": "What is the height of Mount Everest?",
-    "answer": 8849,
-    "type": "meters",
-    "comment": "Mount Everest is 8,849 meters (29,032 feet) tall, making it the tallest mountain above sea level."
-  },
-  {
-    "question": "How many planets are in the Solar System?",
-    "answer": 8,
-    "type": "",
-    "comment": "There are 8 planets in the Solar System since Pluto was reclassified as a dwarf planet in 2006."
-  },
-  {
-    "question": "What is the boiling point of water at sea level?",
-    "answer": 100,
-    "type": "degrees Celsius",
-    "comment": "Water boils at 100°C (212°F) at sea level."
-  },
-  {
-    "question": "How long does it take for light to travel from the Sun to Earth?",
-    "answer": 8,
-    "type": "minutes",
-    "comment": "It takes light approximately 8 minutes and 20 seconds to travel from the Sun to Earth."
-  },
-  {
-    "question": "How many people live in Tokyo, Japan (metro area)?",
-    "answer": 37400000,
-    "type": "",
-    "comment": "As of recent estimates, the Greater Tokyo Area has a population of about 37.4 million."
-  },
-  {
-    "question": "What is the circumference of the Earth at the equator?",
-    "answer": 40075,
-    "type": "kilometers",
-    "comment": "The Earth's equatorial circumference is approximately 40,075 km (24,901 miles)."
-  },
-  {
-    "question": "What is the average human body temperature?",
-    "answer": 37,
-    "type": "degrees Celsius",
-    "comment": "The average human body temperature is 37°C (98.6°F), though it can vary slightly."
   },
   {
     "question": "What percentage of their lives do cats spend sleeping?",
