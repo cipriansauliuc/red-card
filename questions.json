@@ -970,5 +970,19 @@
     "type": "%",
     "comment": "Around 60% of people believe in love at first sight, even if they've never experienced it.",
     "isDynamic": true
+  },
+  {
+    "question": "What distance does the average office chair roll in a year?",
+    "answer": 19,
+    "type": "kilometers",
+    "comment": "An office chair rolls about 19 kilometers (12 miles) a year as workers scoot around their desks and office spaces.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many days does the average person work in a lifetime?",
+    "answer": 10000,
+    "type": "days",
+    "comment": "The average person works around 10,000 days over a lifetime, assuming a 40-year career.",
+    "isDynamic": false
   }
 ]
