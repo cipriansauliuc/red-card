@@ -362,5 +362,26 @@
     "answer": 88,
     "type": "",
     "comment": ""
+  },
+  {
+    "question": "When was the equal sign invented?",
+    "isDynamic": false,
+    "answer": 1557,
+    "type": "",
+    "comment": "Robert Recorde invented the equal sign in 1557."
+  },
+  {
+    "question": "How old was Isaac Newton when he developed integral calculus?",
+    "isDynamic": false,
+    "answer": 23,
+    "type": "",
+    "comment": ""
+  },
+  {
+    "question": "How many colors are needed on a map to make sure that no border will share a color?",
+    "isDynamic": false,
+    "answer": 4,
+    "type": "",
+    "comment": ""
   }
 ]
