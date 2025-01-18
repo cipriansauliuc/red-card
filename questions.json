@@ -1250,5 +1250,12 @@
     "type": "billion",
     "comment": "Globally, people consume about 3 billion cups of tea every day, making it the second most popular beverage after water.",
     "isDynamic": true
+  },
+  {
+    "question": "What is the current Guinness World Record for the longest time holding one's breath?",
+    "answer": 24.62,
+    "type": "minutes",
+    "comment": "The record is held by Budimir Šobat of Croatia, who held his breath for 24 minutes and 37.36 seconds on March 27, 2021.",
+    "isDynamic": false
   }
 ]
