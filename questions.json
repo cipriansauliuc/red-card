@@ -1257,5 +1257,12 @@
     "type": "minutes",
     "comment": "The record is held by Budimir Šobat of Croatia, who held his breath for 24 minutes and 37.36 seconds on March 27, 2021.",
     "isDynamic": false
-  }
+  },
+  {
+    "question": "How many people in the world are drunk at any given time?",
+    "answer": 50000000,
+    "type": "people",
+    "comment": "At any given time, approximately 50 million people are drunk, which is about 0.7% of the world’s population!",
+    "isDynamic": true
+  }  
 ]
