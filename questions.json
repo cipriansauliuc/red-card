@@ -1265,10 +1265,16 @@
     "comment": "At any given time, approximately 50 million people are drunk, which is about 0.7% of the world’s population!",
     "isDynamic": true
   },{
-    "question": "If you earned $1 every second, how many years would it take to accumulate wealth equal to Bill Gates' net worth as of January 2025?",
+    "question": "If you earned $1 every second, how many time would it take to accumulate wealth equal to Bill Gates' net worth as of January 2025?",
     "answer": 5011,
     "type": "years",
     "comment": "As of January 16, 2025, Bill Gates' net worth is estimated at $158 billion. Earning $1 per second would take approximately 5,011 years to reach that amount.",
     "isDynamic": true
-  }  
+  },{
+    "question": "If you visited one beach in Australia every day, how many time would it take to visit them all?",
+    "answer": 27,
+    "type": "years",
+    "comment": "Australia has approximately 10,000 beaches. Visiting one beach every day would take you over 27 years to see them all!",
+    "isDynamic": false
+  }
 ]
