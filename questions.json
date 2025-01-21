@@ -1474,5 +1474,12 @@
     "type": "meters",
     "comment": "Napoleon Bonaparte stood around 1.68 meters (5 feet 6 inches), which was average height in early 19th-century France. The myth of his short stature likely originated from British propaganda during the Napoleonic Wars.",
     "isDynamic": false
+  },
+  {
+    "question": "How many homes per second would Santa need to visit to deliver presents to every household in the world on Christmas Eve?",
+    "answer": 23148,
+    "type": "homes per second",
+    "comment": "To deliver presents to approximately 2 billion households worldwide, Santa would need to visit around 23,148 homes per second!",
+    "isDynamic": false
   }  
 ]
