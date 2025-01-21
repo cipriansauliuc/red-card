@@ -633,7 +633,7 @@
     "answer": 216000000,
     "type": "",
     "comment": "",
-    "isDynamic": false
+    "isDynamic": true
   },
   {
     "question": "How long can a cockroach live without its head?",
