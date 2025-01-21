@@ -1280,9 +1280,9 @@
     "isDynamic": false
   },
   {
-    "question": "How many paintings did Van Gogh sell during his lifetime?",
+    "question": "Van Gogh painted around 860 oil paintings. How many paintings did Van Gogh sell during his lifetime?",
     "answer": 1,
-    "type": "paintings",
+    "type": "",
     "comment": "Van Gogh sold only one painting during his lifetime, 'The Red Vineyard,' which was sold in Brussels for 400 francs just a few months before his death.",
     "isDynamic": false
   },
@@ -1292,5 +1292,187 @@
     "type": "people",
     "comment": "About 7% of American adults believe that chocolate milk comes from brown cows, which works out to approximately 16.4 million people.",
     "isDynamic": true
+  },
+  {
+    "question": "How much taller can the Eiffel Tower become during the summer due to thermal expansion?",
+    "answer": 15,
+    "type": "cm",
+    "comment": "The Eiffel Tower can be 15 cm taller during the summer because the heat causes the iron to expand as its particles gain kinetic energy.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the diameter of the Moon?",
+    "answer": 3400,
+    "type": "km",
+    "comment": "The Moon's diameter is 3,400 km, making it smaller than Australia's east-to-west diameter of nearly 4,000 km.",
+    "isDynamic": false
+  },
+  {
+    "question": "The longest continuous walk in the world stretches from Magadan in Russia to Cape Town in South Africa. How long is this distance?",
+    "answer": 22531,
+    "type": "km",
+    "comment": "It requires no flying or sailing—just bridges and open roads!",
+    "isDynamic": false
+  },
+  {
+    "question": "In what year was the first speeding ticket issued?",
+    "answer": 1896,
+    "type": "",
+    "comment": "The first speeding ticket was issued in 1896 to Mr. Walter Arnold in Kent, UK. He was caught speeding at 8 mph, which was four times the speed limit of 2 mph!",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the world record for the most pancake flips in one minute?",
+    "answer": 140,
+    "type": "",
+    "comment": "",
+    "isDynamic": true
+  },
+  {
+    "question": "What percentage of the body's total energy does the brain consume?",
+    "answer": 20,
+    "type": "%",
+    "comment": "The brain consumes around 20% of the body's total energy, even though it comprises only about 2% of body weight.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the length of the Great Wall of China?",
+    "answer": 21120,
+    "type": "km",
+    "comment": "The Great Wall of China stretches over 21,120 kilometers (13,000 miles), making it the longest mural and architectural marvel in the world.",
+    "isDynamic": false
+  },
+  {
+    "question": "In what year was the earliest known photograph of a person taken?",
+    "answer": 1838,
+    "type": "",
+    "comment": "The earliest known photograph of a person was taken in 1838 by Louis Daguerre. Due to the long exposure time, most people moving on the streets didn’t appear, making them look empty.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many volts can an electric eel generate in a single shock?",
+    "answer": 600,
+    "type": "volts",
+    "comment": "Electric eels can generate shocks of up to 600 volts to incapacitate prey or deter predators. For comparison, that’s about five times the voltage of a standard household electrical outlet!",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the world record for the longest time spent playing video games?",
+    "answer": 138,
+    "type": "hours",
+    "comment": "The longest video game marathon playing World of Warcraft lasted 138 hours and was achieved by Ian Haimes in 2012.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many calories does the average person burn while watching a horror movie?",
+    "answer": 113,
+    "type": "",
+    "comment": "Watching a horror movie can burn around 113 calories, similar to a 30-minute walk.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the world record for the most push-ups in one hour?",
+    "answer": 2417,
+    "type": "",
+    "comment": "The record for the most push-ups in one hour is 2,417, achieved by Charles Servizio in 1993.",
+    "isDynamic": true
+  },
+  {
+    "question": "How many calories does the average person burn while laughing for 15 minutes?",
+    "answer": 40,
+    "type": "",
+    "comment": "Laughing for 15 minutes can burn around 40 calories, depending on the intensity and duration of the laughter.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many calories does the average person burn while sleeping for 8 hours?",
+    "answer": 400,
+    "type": "calories",
+    "comment": "The average person burns about 400 calories while sleeping for 8 hours, depending on factors like age, weight, and metabolism.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the world record for the most hamburgers eaten in 3 minutes?",
+    "answer": 12,
+    "type": "",
+    "comment": "",
+    "isDynamic": true
+  },
+  {
+    "question": "What distance does food travel through the digestive system from the mouth to the end of the small intestine?",
+    "answer": 9,
+    "type": "meters",
+    "comment": "Food travels approximately 9 meters (30 feet) through the digestive system, starting at the mouth and ending at the small intestine.",
+    "isDynamic": false
+  },
+  {
+    "question": "At what speed do nerve impulses travel, allowing split-second reactions to external stimuli?",
+    "answer": 402,
+    "type": "km/h",
+    "comment": "Nerve impulses travel at speeds of up to 402 km/h (250 mph), enabling the body to react instantly to external stimuli.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the approximate weight of the skin, the body's largest organ?",
+    "answer": 3.6,
+    "type": "kg",
+    "comment": "The skin, the body's largest organ, weighs around 3.6 kg (8 pounds) and serves as a vital barrier against harmful microbes.",
+    "isDynamic": false
+  },
+  {
+    "question": "In what year was the ice cream cone invented?",
+    "answer": 1904,
+    "type": "",
+    "comment": "The ice cream cone was invented during the 1904 World's Fair in St. Louis when an ice cream vendor ran out of dishes, and a nearby waffle vendor creatively stepped in to save the day.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many flowers are needed to produce 1 kilogram of saffron threads?",
+    "answer": 170000,
+    "type": "",
+    "comment": "Saffron, one of the most expensive spices in the world, requires about 170,000 crocus flowers to produce just 1 kilogram of saffron threads.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many years ago does the world's oldest known recipe date back?",
+    "answer": 4000,
+    "type": "years",
+    "comment": "The world's oldest known recipe, for a beer-like beverage, dates back over 4,000 years to ancient Mesopotamia.",
+    "isDynamic": false
+  },
+  {
+    "question": "How long does it take for a single pineapple to grow before it can be harvested?",
+    "answer": 2,
+    "type": "years",
+    "comment": "It takes about two years for a single pineapple to grow to full maturity before it can be harvested.",
+    "isDynamic": false
+  },
+  {
+    "question": "At what rate does Mount Everest grow each year due to tectonic forces?",
+    "answer": 4,
+    "type": "millimeters per year",
+    "comment": "Mount Everest, Earth's tallest peak, grows at a rate of about 4 millimeters (0.16 inches) each year due to tectonic forces.",
+    "isDynamic": false
+  },
+  {
+    "question": "What percentage of the world's fresh water is contained in Antarctica's ice sheet?",
+    "answer": 70,
+    "type": "%",
+    "comment": "Antarctica, the coldest continent, holds about 70% of the world's fresh water in its massive ice sheet.",
+    "isDynamic": false
+  },
+  {
+    "question": "What is the height of Angel Falls, the tallest waterfall on the planet?",
+    "answer": 979,
+    "type": "meters",
+    "comment": "Angel Falls in Venezuela plunges from a height of 979 meters (3,212 feet), making it the tallest waterfall on the planet.",
+    "isDynamic": false
+  },
+  {
+    "question": "What was Napoleon Bonaparte's height?",
+    "answer": 1.68,
+    "type": "meters",
+    "comment": "Napoleon Bonaparte stood around 1.68 meters (5 feet 6 inches), which was average height in early 19th-century France. The myth of his short stature likely originated from British propaganda during the Napoleonic Wars.",
+    "isDynamic": false
   }  
 ]
