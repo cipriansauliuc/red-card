@@ -1203,13 +1203,6 @@
     "isDynamic": true
   },
   {
-    "question": "How many liters of saliva does a person produce in their lifetime?",
-    "answer": 25000,
-    "type": "liters",
-    "comment": "The average person produces about 25,000 liters of saliva in a lifetime, enough to fill two swimming pools.",
-    "isDynamic": true
-  },
-  {
     "question": "How many iPhones were sold in their first year on the market?",
     "answer": 6000000,
     "type": "",
