@@ -1502,5 +1502,12 @@
     "type": "hours",
     "comment": "A garden snail is moving at an average speed of 0.013 km/h.",
     "isDynamic": false
-  }
+  },
+  {
+    "question": "If every human on Earth screamed at the same time, how many decibels would the combined sound reach?",
+    "answer": 105,
+    "type": "decibels",
+    "comment": "Comparable to standing near a jackhammer.",
+    "isDynamic": false
+  }  
 ]
