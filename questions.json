@@ -1509,5 +1509,26 @@
     "type": "stars",
     "comment": "On a clear night, about 5,000 stars are visible to the naked eye from Earth, depending on light pollution and viewing conditions.",
     "isDynamic": false
+  },
+  {
+    "question": "What percentage of human body weight is made up of blood?",
+    "answer": 8,
+    "type": "%",
+    "comment": "Blood makes up about 8% of a human's body weight, playing a vital role in transporting oxygen and nutrients.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many languages are spoken in the world today?",
+    "answer": 7000,
+    "type": "languages",
+    "comment": "There are around 7,000 languages spoken worldwide today, with many at risk of extinction.",
+    "isDynamic": false
+  },
+  {
+    "question": "How many species of bacteria live in the average human mouth?",
+    "answer": 700,
+    "type": "species",
+    "comment": "The average human mouth hosts over 700 species of bacteria, contributing to its unique microbiome.",
+    "isDynamic": false
   }  
 ]
