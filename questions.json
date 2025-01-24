@@ -1495,5 +1495,12 @@
     "type": "",
     "comment": "Greenland sharks can live up to 500 years, making them one of the longest-living vertebrates on Earth.",
     "isDynamic": false
-  }  
+  },
+  {
+    "question": "How many hours would it take for a garden snail to travel one kilometer at its average speed?",
+    "answer": 208,
+    "type": "hours",
+    "comment": "A garden snail is moving at an average speed of 0.013 km/h.",
+    "isDynamic": false
+  }
 ]
