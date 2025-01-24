@@ -1481,5 +1481,12 @@
     "type": "homes per second",
     "comment": "To deliver presents to approximately 2 billion households worldwide, Santa would need to visit around 23,148 homes per second!",
     "isDynamic": false
+  },
+  {
+    "question": "What percentage of taste bud sensitivity is lost during a flight due to elevation and low pressure?",
+    "answer": 30,
+    "type": "%",
+    "comment": "A 2010 study found that dryness and low pressure during flights reduce taste sensitivity to sweet and salty foods by about 30%.",
+    "isDynamic": false
   }  
 ]
