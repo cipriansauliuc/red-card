@@ -1502,5 +1502,12 @@
     "type": "decibels",
     "comment": "Comparable to standing near a jackhammer.",
     "isDynamic": false
+  },
+  {
+    "question": "How many stars are visible to the naked eye from Earth?",
+    "answer": 5000,
+    "type": "stars",
+    "comment": "On a clear night, about 5,000 stars are visible to the naked eye from Earth, depending on light pollution and viewing conditions.",
+    "isDynamic": false
   }  
 ]
