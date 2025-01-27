@@ -1537,5 +1537,12 @@
     "type": "year",
     "comment": "The first TV remote control was released in 1950 by the Zenith Radio Corporation. It was connected to the TV by a bulky cord and could change channels and turn the TV on and off.",
     "isDynamic": false
+  },
+  {
+    "question": "How many people log on to YouTube each month to watch its content?",
+    "answer": 2000000000,
+    "type": "people",
+    "comment": "Over 2 billion people log on to YouTube each month, watching a billion hours of television and video daily.",
+    "isDynamic": true
   }  
 ]
