@@ -1530,5 +1530,12 @@
     "type": "species",
     "comment": "The average human mouth hosts over 700 species of bacteria, contributing to its unique microbiome.",
     "isDynamic": false
+  },
+  {
+    "question": "In what year was the first TV remote control released?",
+    "answer": 1950,
+    "type": "year",
+    "comment": "The first TV remote control was released in 1950 by the Zenith Radio Corporation. It was connected to the TV by a bulky cord and could change channels and turn the TV on and off.",
+    "isDynamic": false
   }  
 ]
