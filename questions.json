@@ -1544,5 +1544,11 @@
     "type": "people",
     "comment": "Over 2 billion people log on to YouTube each month, watching a billion hours of television and video daily.",
     "isDynamic": true
+  },{
+    "question": "What is the highest wind speed recorded in Antarctica?",
+    "answer": 372,
+    "type": "km/h",
+    "comment": "Antarctica holds the record for the highest wind speed ever recorded on Earth, reaching 372 km/h (231 mph)!",
+    "isDynamic": false
   }  
 ]
