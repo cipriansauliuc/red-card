@@ -1550,5 +1550,12 @@
     "type": "km/h",
     "comment": "Antarctica holds the record for the highest wind speed ever recorded on Earth, reaching 372 km/h (231 mph)!",
     "isDynamic": false
+  },
+  {
+    "question": "How many layers should a perfectly baked croissant have?",
+    "answer": 27,
+    "type": "layers",
+    "comment": "A perfectly baked croissant should have 27 layers, created by folding and laminating the dough with butter.",
+    "isDynamic": false
   }  
 ]
