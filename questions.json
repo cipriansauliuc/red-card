@@ -1557,5 +1557,12 @@
     "type": "layers",
     "comment": "A perfectly baked croissant should have 27 layers, created by folding and laminating the dough with butter.",
     "isDynamic": false
+  },
+  {
+    "question": "In which century were sunglasses invented?",
+    "answer": 12,
+    "type": "century",
+    "comment": "Sunglasses were invented in the 12th century by the Chinese. They were originally used by judges to obscure their eyes while listening to cases in court.",
+    "isDynamic": false
   }  
 ]
