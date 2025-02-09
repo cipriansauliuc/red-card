@@ -1585,5 +1585,21 @@
     "type": "%",
     "comment": "China is the largest carrot producer in the world, accounting for 45% of the global supply. Carrots are also the country's top agricultural export!",
     "isDynamic": true
-  }  
+  },
+  [
+    {
+      "question": "What is the longest carrot ever grown, according to the world record?",
+      "answer": 6.245,
+      "type": "meters",
+      "comment": "The longest carrot ever grown measured an astonishing 6.245 meters (20 ft 6 in). It was grown by Joe Atherton of Malvern, UK, in 2017.",
+      "isDynamic": true
+    },
+    {
+      "question": "What is the heaviest carrot ever recorded?",
+      "answer": 10.17,
+      "type": "kg",
+      "comment": "The heaviest carrot ever recorded weighed 10.17 kg (22.44 lb). It was grown by Christopher Qualley of Otsego, USA, in 2017.",
+      "isDynamic": true
+    }
+  ]  
 ]
