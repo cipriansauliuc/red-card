@@ -1571,5 +1571,12 @@
     "type": "year",
     "comment": "The modern pencil, with its familiar hexagonal shape, was invented by Nicholas-Jacques Conte in 1795. His design made it easier to grip and prevented it from rolling off tables.",
     "isDynamic": false
+  },
+  {
+    "question": "For how many years can a pear tree produce fruit?",
+    "answer": 75,
+    "type": "years",
+    "comment": "A pear tree grown from a seed can take 4 to 8 years to start producing fruit and will continue to do so for up to 75 years.",
+    "isDynamic": false
   }  
 ]
