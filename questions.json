@@ -1564,5 +1564,12 @@
     "type": "century",
     "comment": "Sunglasses were invented in the 12th century by the Chinese. They were originally used by judges to obscure their eyes while listening to cases in court.",
     "isDynamic": false
+  },
+  {
+    "question": "In what year was the modern hexagonal pencil invented?",
+    "answer": 1795,
+    "type": "year",
+    "comment": "The modern pencil, with its familiar hexagonal shape, was invented by Nicholas-Jacques Conte in 1795. His design made it easier to grip and prevented it from rolling off tables.",
+    "isDynamic": false
   }  
 ]
