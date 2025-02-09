@@ -1600,6 +1600,13 @@
       "type": "kg",
       "comment": "The heaviest carrot ever recorded weighed 10.17 kg (22.44 lb). It was grown by Christopher Qualley of Otsego, USA, in 2017.",
       "isDynamic": true
-    }
+    },
+    {
+      "question": "How many different varieties of raspberries exist?",
+      "answer": 200,
+      "type": "varieties",
+      "comment": "There are over 200 different varieties of raspberries, far more than the common red ones most people imagine!",
+      "isDynamic": false
+    }    
   ]  
 ]
