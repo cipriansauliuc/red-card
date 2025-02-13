@@ -1607,6 +1607,13 @@
       "type": "varieties",
       "comment": "There are over 200 different varieties of raspberries, far more than the common red ones most people imagine!",
       "isDynamic": false
+    },
+    {
+      "question": "How many countries have blue passports, making it the most popular passport color?",
+      "answer": 84,
+      "type": "countries",
+      "comment": "Blue is the most popular passport color, used by 84 nations, followed by red (68), green (40), and black (7).",
+      "isDynamic": false
     }    
   ]  
 ]
