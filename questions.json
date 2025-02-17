@@ -1614,6 +1614,13 @@
       "type": "countries",
       "comment": "Blue is the most popular passport color, used by 84 nations, followed by red (68), green (40), and black (7).",
       "isDynamic": false
+    },
+    {
+      "question": "How many parts does an average car have?",
+      "answer": 30000,
+      "type": "parts",
+      "comment": "An average car consists of approximately 30,000 parts, including everything from the engine to tiny screws and bolts.",
+      "isDynamic": true
     }    
   ]  
 ]
