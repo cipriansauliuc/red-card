@@ -350,7 +350,7 @@
     "isDynamic": false
   },
   {
-    "question": "How many years did the Hundred Years’ War last?",
+    "question": "How many years did the Hundred Years' War last?",
     "answer": 116,
     "type": "years",
     "comment": "",
@@ -639,7 +639,7 @@
     "question": "How long can a cockroach live without its head?",
     "answer": 7,
     "type": "days",
-    "comment": "A cockroach can live up to a week without its head because it breathes through its body and doesn’t rely on its mouth or head to survive.",
+    "comment": "A cockroach can live up to a week without its head because it breathes through its body and doesn't rely on its mouth or head to survive.",
     "isDynamic": false
   },
   {
@@ -664,7 +664,7 @@
     "isDynamic": true
   },
   {
-    "question": "How many times can a cheetah’s heart beat in one minute while chasing prey?",
+    "question": "How many times can a cheetah's heart beat in one minute while chasing prey?",
     "answer": 250,
     "type": "",
     "comment": "",
@@ -1157,7 +1157,7 @@
     "question": "What is the longest recorded nap taken by a snail?",
     "answer": 3,
     "type": "years",
-    "comment": "A snail can nap for up to 3 years if the weather conditions aren’t favorable.",
+    "comment": "A snail can nap for up to 3 years if the weather conditions aren't favorable.",
     "isDynamic": false
   },
   {
@@ -1255,7 +1255,7 @@
     "question": "How many people in the world are drunk at any given time?",
     "answer": 50000000,
     "type": "people",
-    "comment": "At any given time, approximately 50 million people are drunk, which is about 0.7% of the world’s population!",
+    "comment": "At any given time, approximately 50 million people are drunk, which is about 0.7% of the world's population!",
     "isDynamic": true
   },
   {
@@ -1339,14 +1339,14 @@
     "question": "In what year was the earliest known photograph of a person taken?",
     "answer": 1838,
     "type": "",
-    "comment": "The earliest known photograph of a person was taken in 1838 by Louis Daguerre. Due to the long exposure time, most people moving on the streets didn’t appear, making them look empty.",
+    "comment": "The earliest known photograph of a person was taken in 1838 by Louis Daguerre. Due to the long exposure time, most people moving on the streets didn't appear, making them look empty.",
     "isDynamic": false
   },
   {
     "question": "How many volts can an electric eel generate in a single shock?",
     "answer": 600,
     "type": "volts",
-    "comment": "Electric eels can generate shocks of up to 600 volts to incapacitate prey or deter predators. For comparison, that’s about five times the voltage of a standard household electrical outlet!",
+    "comment": "Electric eels can generate shocks of up to 600 volts to incapacitate prey or deter predators. For comparison, that's about five times the voltage of a standard household electrical outlet!",
     "isDynamic": false
   },
   {
@@ -1626,7 +1626,14 @@
       "question": "What percentage of a car's lifetime is spent parked?",
       "answer": 95,
       "type": "%",
-      "comment": "Nearly 95% of a car’s lifetime is spent parked, with only about 5% of the time being actively driven.",
+      "comment": "Nearly 95% of a car's lifetime is spent parked, with only about 5% of the time being actively driven.",
+      "isDynamic": true
+    },
+    {
+      "question": "What percentage of the world's population drives on the right side of the road?",
+      "answer": 65,
+      "type": "%",
+      "comment": "Almost 65% of the world's population drives on the right side of the road, while the remaining 35% drive on the left.",
       "isDynamic": true
     }    
   ]  
