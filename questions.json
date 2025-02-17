@@ -1621,6 +1621,13 @@
       "type": "parts",
       "comment": "An average car consists of approximately 30,000 parts, including everything from the engine to tiny screws and bolts.",
       "isDynamic": true
+    },
+    {
+      "question": "What percentage of a car's lifetime is spent parked?",
+      "answer": 95,
+      "type": "%",
+      "comment": "Nearly 95% of a car’s lifetime is spent parked, with only about 5% of the time being actively driven.",
+      "isDynamic": true
     }    
   ]  
 ]
