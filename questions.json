@@ -1635,6 +1635,13 @@
       "type": "%",
       "comment": "Almost 65% of the world's population drives on the right side of the road, while the remaining 35% drive on the left.",
       "isDynamic": true
+    },
+    {
+      "question": "What percentage of car owners never wash their cars?",
+      "answer": 16,
+      "type": "%",
+      "comment": "About 16% of all car owners never wash their cars, letting dirt and grime accumulate over time!",
+      "isDynamic": true
     }    
   ]  
 ]
