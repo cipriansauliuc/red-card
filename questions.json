@@ -1642,6 +1642,13 @@
       "type": "%",
       "comment": "About 16% of all car owners never wash their cars, letting dirt and grime accumulate over time!",
       "isDynamic": true
+    },
+    {
+      "question": "What percentage of a watermelon is composed of water?",
+      "answer": 92,
+      "type": "%",
+      "comment": "Watermelon is made up of about 92% water, making it a refreshing summer staple fruit.",
+      "isDynamic": false
     }    
   ]  
 ]
