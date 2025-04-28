@@ -1649,6 +1649,13 @@
       "type": "%",
       "comment": "Watermelon is made up of about 92% water, making it a refreshing summer staple fruit.",
       "isDynamic": false
-    }    
+    },
+    {
+      "question": "What percentage of the world's lakes are located in Canada?",
+      "answer": 60,
+      "type": "%",
+      "comment": "Over 60% of the world's lakes are located in Canada, making it the country with the most lakes by far.",
+      "isDynamic": false
+    }
   ]  
 ]
