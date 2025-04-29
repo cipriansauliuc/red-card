@@ -1656,6 +1656,13 @@
       "type": "%",
       "comment": "Over 60% of the world's lakes are located in Canada, making it the country with the most lakes by far.",
       "isDynamic": false
-    }
+    },
+    {
+      "question": "How many acorns does an oak tree produce during its lifetime?",
+      "answer": 10000000,
+      "type": "acorns",
+      "comment": "An oak tree produces about 10 million acorns throughout its lifetime, providing food for countless animals.",
+      "isDynamic": false
+    }    
   ]  
 ]
