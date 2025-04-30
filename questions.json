@@ -1663,6 +1663,13 @@
       "type": "acorns",
       "comment": "An oak tree produces about 10 million acorns throughout its lifetime, providing food for countless animals.",
       "isDynamic": false
+    },
+    {
+      "question": "What percentage of conversation time do most individuals spend talking about themselves?",
+      "answer": 60,
+      "type": "%",
+      "comment": "Research shows that people spend about 60% of their conversation time talking about themselves.",
+      "isDynamic": false
     }    
   ]  
 ]
