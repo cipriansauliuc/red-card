@@ -1406,13 +1406,6 @@
     "isDynamic": false
   },
   {
-    "question": "What is the approximate weight of the skin, the body's largest organ?",
-    "answer": 3.6,
-    "type": "kg",
-    "comment": "The skin, the body's largest organ, weighs around 3.6 kg (8 pounds) and serves as a vital barrier against harmful microbes.",
-    "isDynamic": false
-  },
-  {
     "question": "In what year was the ice cream cone invented?",
     "answer": 1904,
     "type": "",
