@@ -1670,6 +1670,13 @@
       "type": "%",
       "comment": "Your skin accounts for about 15% of your total body weight, making it the largest organ of the human body.",
       "isDynamic": false
-    }    
+    },
+    {
+      "question": "What percentage of homes in the US have a television?",
+      "answer": 99,
+      "type": "%",
+      "comment": "Today, 99% of homes in the US have at least one television, while 55 percent of youngsters have one in their bedroom.",
+      "isDynamic": true
+    }
   ]  
 ]
