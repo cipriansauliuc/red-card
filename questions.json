@@ -1670,6 +1670,13 @@
       "type": "%",
       "comment": "Research shows that people spend about 60% of their conversation time talking about themselves.",
       "isDynamic": false
+    },
+    {
+      "question": "What percentage of your total body weight is made up by your skin?",
+      "answer": 15,
+      "type": "%",
+      "comment": "Your skin accounts for about 15% of your total body weight, making it the largest organ of the human body.",
+      "isDynamic": false
     }    
   ]  
 ]
