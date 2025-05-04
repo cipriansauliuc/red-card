@@ -1677,6 +1677,13 @@
       "type": "%",
       "comment": "Today, 99% of homes in the US have at least one television, while 55 percent of youngsters have one in their bedroom.",
       "isDynamic": true
-    }
+    },
+    {
+      "question": "How many kilometers of roads cover the globe?",
+      "answer": 21000000,
+      "type": "kilometers",
+      "comment": "At least 21 million kilometers (13 million miles) of roads span the Earth, from major highways to rural paths.",
+      "isDynamic": true
+    }    
   ]  
 ]
