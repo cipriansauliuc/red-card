@@ -1684,6 +1684,13 @@
       "type": "kilometers",
       "comment": "At least 21 million kilometers (13 million miles) of roads span the Earth, from major highways to rural paths.",
       "isDynamic": true
+    },
+    {
+      "question": "How many thunderstorms occur around the world each day?",
+      "answer": 45000,
+      "type": "thunderstorms",
+      "comment": "Every day, there are about 45,000 thunderstorms in the world.",
+      "isDynamic": false
     }    
   ]  
 ]
